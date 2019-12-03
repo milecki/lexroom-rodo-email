@@ -2,15 +2,15 @@
   <mj-head>
     <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600&display=swap&subset=latin-ext" />
   </mj-head>
-  <mj-body background-color="#f1f1f1">
+  <mj-body background-color="#F1F1F1">
 
-    <mj-section background-color="#ffffff" padding="10px">
+    <mj-section background-color="#FFFFFF" padding="10px">
       <mj-column>
         <mj-image width="120px" src="./logo.svg" alt="Lexroom Logo" />
       </mj-column>
     </mj-section>
 
-    <mj-hero background-url="./rodo-bg.png" background-width="600px" background-color="#0d47a1" padding="45px 0px">
+    <mj-hero background-url="./rodo-bg.png" background-width="600px" background-color="#0D47A1" padding="45px 0px">
       <mj-text padding="20px" color="#FFFFFF" font-family="Source Sans Pro" align="center" font-size="32px" line-height="42px" font-weight="600">
         Wsparcie dla<br> Inspektorów Ochrony Danych
       </mj-text>
@@ -19,9 +19,9 @@
       </mj-button>
     </mj-hero>
 
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#FFFFFF">
       <mj-column width="100%">
-        <mj-text font-size="28px" font-family="Source Sans Pro" color="#424242" align="center" padding-bottom="30px" padding-top="30px">
+        <mj-text font-size="28px" font-family="Source Sans Pro" color="#424242" align="center" padding="30px 25px">
           Zakres usług
         </mj-text>
       </mj-column>
@@ -70,9 +70,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="40px" background-color="#ffffff">
+    <mj-section padding="20px 0 40px" background-color="#FFFFFF">
       <mj-column width="100%">
-        <mj-text font-size="28px" font-family="Source Sans Pro" color="#424242" align="center" padding-bottom="30px">
+        <mj-text font-size="28px" font-family="Source Sans Pro" color="#424242" align="center" padding="10px 25px 30px">
           Zapraszamy do kontaktu
         </mj-text>
       </mj-column>
