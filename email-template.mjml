@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600&display=swap&subset=latin-ext" />
+  </mj-head>
+  <mj-body background-color="#f1f1f1">
+
+    <mj-section background-color="#ffffff" padding="10px">
+      <mj-column>
+        <mj-image width="120px" src="./logo.svg" alt="Lexroom Logo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-hero background-url="./rodo-bg.png" background-width="600px" background-color="#0d47a1" padding="45px 0px">
+      <mj-text padding="20px" color="#FFFFFF" font-family="Source Sans Pro" align="center" font-size="32px" line-height="42px" font-weight="600">
+        Wsparcie dla<br> Inspektorów Ochrony Danych
+      </mj-text>
+      <mj-button href="http://lexroom.pl/rodo/" background-color="#E91E63" border-radius="50px" font-size="16px" font-family="Source Sans Pro">
+        Dowiedz się więcej
+      </mj-button>
+    </mj-hero>
+
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text font-size="28px" font-family="Source Sans Pro" color="#424242" align="center" padding-bottom="30px" padding-top="30px">
+          Zakres usług
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text font-size="16px" font-family="Source Sans Pro" color="#222222" align="center" padding="0 40px 40px" line-height="24px">
+          Świadczymy kompleksowe usługi z zakresu ochrony danych osobowych. Doradzamy, pomagamy stworzyć dokumentację i wdrożyć procedury, a także udzielamy wsparcia podczas kontroli
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="33.3333%">
+        <mj-image src="./weryfikacja.png" alt="" width="30px" align="center" padding="10px 0 0" />
+        <mj-text font-size="18px" font-weight="600" font-family="Source Sans Pro" line-height="24px" color="#222222" padding="10px 20px" align="center">
+          Weryfikacja<br>dokumentacji<br>
+        </mj-text>
+        align="center"align="center"
+        <mj-text font-size="14px" font-family="Source Sans Pro" color="#222222" line-height="20px" padding="10px 20px">
+          - Stworzenie dokumentacji wymaganej obowiązującymi przepisami prawa<br><br>
+          - Stworzenie oraz wdrożenie procedur<br><br>
+          - Stworzenie wzorów niezbędnych dokumentów i rejestrów<br><br>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="33.3333%">
+        <mj-image src="./pomoc.png" alt="" width="30px" align="center" padding="10px 0 0" />
+        <mj-text font-size="18px" font-weight="600" font-family="Source Sans Pro" line-height="24px" color="#222222" padding="10px 20px" align="center">
+          Pomoc<br>podczas kontroli<br>
+        </mj-text>
+
+        <mj-text font-size="14px" font-family="Source Sans Pro" color="#222222" line-height="20px" padding="10px 20px">
+          - Pomoc w zakresie kontaktów z organem nadzoru<br><br>
+          - Wsparcie podczas postępowania kontrolnego Urzędu Ochrony Danych Osobowych<br><br>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="33.3333%">
+        <mj-image src="./biezace-konsultacje.png" alt="" width="30px" align="center" padding="10px 0 0" />
+        <mj-text font-size="18px" font-weight="600" font-family="Source Sans Pro" line-height="24px" color="#222222" padding="10px 20px" align="center">
+          Bieżące<br>konsultacje
+        </mj-text>
+
+        <mj-text font-size="14px" font-family="Source Sans Pro" color="#222222" line-height="20px" padding="10px 20px">
+          - Konsultacje merytoryczne z naszymi specjalistami<br><br>
+          - Doradztwo w zakresie realizacji obowiązków administratora (IOD)<br><br>
+          - Doradztwo w zakresie zaistniałych incydentów (naruszeń)<br><br>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="40px" background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text font-size="28px" font-family="Source Sans Pro" color="#424242" align="center" padding-bottom="30px">
+          Zapraszamy do kontaktu
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text font-size="16px" font-family="Source Sans Pro" color="#222222" align="center" padding="0 40px 30px" line-height="24px">
+          Zachęcamy Państwa do kontaktu drogą mailową bądź telefonicznie w dni robocze w godzinach 9:00 - 16:00
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./email.png" alt="" width="30px" padding="10px 0 10px" />
+        <mj-text font-size="16px" font-family="Source Sans Pro" color="#222222" align="center" padding="0 10px 30px">
+          biuro@lexroom.pl
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./phone.png" alt="" width="30px" padding="10px 0 10px" />
+        <mj-text font-size="16px" font-family="Source Sans Pro" color="#222222" align="center" padding="0 10px 30px">
+          +48 720 543 210
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#263138" padding="10px">
+      <mj-column>
+        <mj-text font-size="14px" font-family="Source Sans Pro" color="#FFFFFF" align="center" font-family="Source Sans Pro">
+          Copyright &copy; Lexroom 2019
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
